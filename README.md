@@ -14,5 +14,7 @@ In this repository, it will include the following files:
 - Modified Dataset
 - Jupyter Notebook file consists of Python script using for data wrangling.
 
+Website for my dashboard: [https://public.tableau.com/app/profile/napoj.thanomkul7355/viz/AustralianLabourMarketInsight/AustralianLabourMarketDashboard](https://public.tableau.com/app/profile/napoj.thanomkul7355/viz/AustralianLabourMarketInsight/AustralianLabourMarketDashboard)
+
 Disclaimer: The data retrieved for this project is from https://labourmarketinsights.gov.au/media/v4vjmxur/occupation-profiles-data.xlsx
 which is the Australian Government Open-data website.
